@@ -1,0 +1,3 @@
+usr/include/fcft/*
+usr/lib/*/*.so
+usr/lib/*/pkgconfig/*.pc

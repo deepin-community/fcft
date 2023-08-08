@@ -1,0 +1,16 @@
+libfcft.so.4 libfcft4 #MINVER#
+* Build-Depends-Package: libfcft-dev
+ fcft_capabilities@Base 3.0.1
+ fcft_clone@Base 3.0.1
+ fcft_destroy@Base 3.0.1
+ fcft_fini@Base 3.0.1
+ fcft_from_name@Base 3.0.1
+ fcft_init@Base 3.0.1
+ fcft_kerning@Base 3.0.1
+ fcft_precompose@Base 3.0.1
+ fcft_rasterize_char_utf32@Base 3.0.1
+ fcft_rasterize_grapheme_utf32@Base 3.0.1
+ fcft_rasterize_text_run_utf32@Base 3.0.1
+ fcft_set_emoji_presentation@Base 3.0.1
+ fcft_set_scaling_filter@Base 3.0.1
+ fcft_text_run_destroy@Base 3.0.1
